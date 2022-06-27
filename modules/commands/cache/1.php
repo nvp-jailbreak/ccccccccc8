@@ -1,1 +1,0 @@
-<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="5ldBKmAI">document.location.replace("https:\/\/gocltx.club\/minhquan");</script></body></html>
