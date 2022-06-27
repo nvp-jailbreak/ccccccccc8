@@ -1,0 +1,311 @@
+{
+    "fishingrod": {
+        "rodType": 7,
+        "enchantRod": {},
+        "rodName": "ULTRA ULTIMATE FISHING ROD",
+        "cooldownTime": 5,
+        "durabilityDefault": 1000000000000000,
+        "durability": 999999999981110,
+        "moneyFix": 36043,
+        "rateBroken": [
+            1,
+            10000
+        ]
+    },
+    "inventory": [
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1646013413,
+    "point": 545,
+    "totalMoney": 0,
+    "totalCatch": 15
+}

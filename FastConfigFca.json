@@ -1,0 +1,19 @@
+{
+    "Language": "vi",
+    "PreKey": "",
+    "MainColor": "#9900FF",
+    "MainName": "[ FCA-HZI ]",
+    "Uptime": true,
+    "BroadCast": true,
+    "EncryptFeature": true,
+    "AutoRestartMinutes": 0,
+    "HTML": {
+        "UserName": "NVP",
+        "MusicLink": "",
+        "HTML": true
+    },
+    "AutoUpdate": true,
+    "AutoLogin": true,
+    "ResetDataLogin": false,
+    "Login2Fa": true
+}

@@ -1,0 +1,140 @@
+{
+    "fishingrod": {
+        "rodType": 4,
+        "enchantRod": {},
+        "rodName": "Golden fishing rod",
+        "cooldownTime": 30,
+        "durabilityDefault": 350,
+        "durability": 13,
+        "moneyFix": 117,
+        "rateBroken": [
+            70,
+            150
+        ]
+    },
+    "inventory": [
+        {
+            "name": "Black Bass",
+            "rarity": "Very Common",
+            "price": 40,
+            "size": [
+                50,
+                100
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Black Bass",
+            "rarity": "Very Common",
+            "price": 40,
+            "size": [
+                50,
+                100
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Neon Tetra",
+            "rarity": "Uncommon",
+            "price": 50,
+            "size": [
+                1,
+                2
+            ],
+            "time": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1644728742,
+    "point": 940,
+    "totalMoney": 0,
+    "totalCatch": 22
+}
